@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="log_in">Log in</string>
+    <string name="email_address">Email address</string>
+    <string name="email_address_hint">Email address</string>
+    <string name="password_login">Password</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="keep_me_signed_in">Keep me signed in</string>
+    <string name="log_in_page">Log In</string>
+    <string name="log_in_with">---------Log in with---------</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+
+</resources>
